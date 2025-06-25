@@ -23,8 +23,8 @@ Este proyecto implementa un sistema de seguimiento de manos en tiempo real utili
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone <url-del-repositorio>
-cd tracker
+git clone https://github.com/MiguelIslasH/hand-tracking.git
+cd hand-tracking
 ```
 
 ### 2. Crear un entorno virtual (recomendado)
